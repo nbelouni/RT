@@ -81,4 +81,4 @@ CONFIG :
 - x, y, z (respectivement : horizontal (-1 gauche, 1 droite), vertical (-1 haut, 1 bas), profondeur (-1 vers camera, 1 inverse))
 
 
-https://github.com/nbelouni/RT/blob/master/img/Capture%20d%E2%80%99%C3%A9cran%202018-11-13%20%C3%A0%2019.18.44.png
+![alt text](https://github.com/nbelouni/RT/blob/master/img/Capture%20d%E2%80%99%C3%A9cran%202018-11-13%20%C3%A0%2019.18.44.png)
